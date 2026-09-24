@@ -1,0 +1,4 @@
+interface:
+  display_name: "土豆头像"
+  short_description: "用粗糙低清三维表情包风格生成土豆头像"
+  default_prompt: "用 $potato-avatar 按已确认的土豆表情包风格生成一个新头像，并结合我给出的动作、表情和道具。"

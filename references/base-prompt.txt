@@ -1,0 +1,13 @@
+Use the supplied generated examples as visual references, with explicit roles for character identity, pose, props and material simplification. Make one new square reaction sticker, not a collage.
+
+A single irregular bean-shaped golden-brown potato with a slight waist dent, no neck or separate torso; mottled low-resolution texture, basic rounded volume; tiny flat black dot-or-dash eyes, short black brows and line mouth; pale-yellow capsule hands and short stick legs.
+
+Match an old homemade realtime-3D internet sticker: slightly muddy texture maps, primitive forms, unsophisticated diffuse lighting and modest jagged raster edges. Weak physical realism matters more than extreme pixelation. The potato may be rounded; props should be thin, simple and only weakly shaded. All objects share the same coarse texture/raster quality. Cloth is a lightly bent textured sheet identified by its pattern and outline, not padded folds or realistic fabric physics. Other props use crude nearly-flat textured planes where possible, without precise product finishes.
+
+NEW SCENE: [action, expression and necessary props].
+REFERENCE ROLES: [what each input contributes; what not to carry over].
+PROP CONSTRAINTS: [correct silhouette, grip and occlusion; face unobstructed].
+
+One centered character on [plain white / simple solid color], 1:1 avatar composition, complete subject and props occupy about 75-80% with safe margins. 1024x1024 output retaining a coarse low-resolution-sticker appearance. Minimal grounding shadow.
+
+Avoid realistic eyes, plush collectible photography, PBR materials, deep cloth creases, strong ambient occlusion, cinematic light, shiny metal, microtexture, crisp CAD props, extreme triangular facets, voxel cubes, flat 2D pixel art, extra limbs, text or watermark. Do not make all surfaces physically convincing. Do not inherit an earlier scene's expression, clothing or props unless explicitly requested.
