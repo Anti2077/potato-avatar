@@ -1,0 +1,11 @@
+Edit image 1, the potato wrapped in a blue duvet hugging a MacBook. Image 2 is the target for the crude 3D meme rendering style only.
+
+Preserve image 1's single potato character, exhausted flat black half-closed eyes, eyebrows, downturned line mouth, sitting pose, blue duvet, hugging arms, open gray MacBook, framing, white background, and overall colors. Make the ENTIRE render noticeably cruder and lower fidelity, including the duvet and laptop. Do not change the scene or add objects.
+
+Target the aesthetic of a tiny old realtime-3D internet sticker, like image 2. Simplify the potato mesh with a visibly uneven slightly faceted silhouette. Use a coarse, low-resolution, mottled golden potato texture, with flat broad patches instead of tiny realistic pores. Facial marks are very simple flat black shapes with visible raster stair-steps. Hands and feet are basic pale yellow rounded sticks without fingers.
+
+Most important: remove ALL fluffy fleece, fuzz, fine fabric grain and realistic cloth shading from the blue duvet. Remodel it as a crude solid low-detail blanket with only three to five broad angular folds, large simple blue shading regions, and a slightly polygonal edge. It should have the same cheap simple 3D quality as the potato. Simplify the MacBook into plain gray planes, a basic hinge and small dark Apple symbol, no finely resolved keys, reflections or metal texture.
+
+Use simple basic diffuse shading and a very faint contact shadow, no ambient-occlusion creases, no cinematic illumination, no sophisticated material response. Render as if the entire sticker were originally only about 160-200 pixels across and enlarged to the 1024x1024 output, with clearly visible modest jagged edges and coarse texture. Keep the 3D volume and legibility of the tired face; no blur, no random film grain, no noise overlay, no 2D pixel-art redraw, no voxel cubes. This should be a genuinely simplified coarse render rather than a detailed image with a filter.
+
+One centered character per image, no panels, no text, no watermark, no border. The quilt, face and laptop remain fully within the canvas. Make the downgrade in detail unmistakable at avatar size.

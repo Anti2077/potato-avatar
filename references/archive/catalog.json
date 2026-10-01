@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "image": "archive/images/tired-potato-macbook--tired-potato-macbook-1.png",
+    "status": "superseded",
+    "role": "玩偶摄影、真实眼部、蓬松白被子：失败方向",
+    "prompt": "archive/prompts/tired-potato-macbook.txt",
+    "sha256": "f7bdc6a637038b62b371da68f767fbe32a1cb2b19e5dba4635ed42f7069dbab8"
+  },
+  {
+    "id": 2,
+    "image": "archive/images/tired-potato-macbook--tired-potato-macbook-2.png",
+    "status": "superseded",
+    "role": "玩偶摄影、真实眼部、蓬松白被子：失败方向",
+    "prompt": "archive/prompts/tired-potato-macbook.txt",
+    "sha256": "0cec71b644c4931ab7ea0ca8f9a3c16386d9fc579c750419e21e4a05e6e9a198"
+  },
+  {
+    "id": 3,
+    "image": "archive/images/tired-potato-macbook--tired-potato-macbook-3.png",
+    "status": "superseded",
+    "role": "玩偶摄影、真实眼部、蓬松白被子：失败方向",
+    "prompt": "archive/prompts/tired-potato-macbook.txt",
+    "sha256": "1ee8efbffab92290e7902adda82b841a49bc73224508bfd9459da5f65f736245"
+  },
+  {
+    "id": 4,
+    "image": "archive/images/tired-potato-macbook--tired-potato-macbook-4.png",
+    "status": "superseded",
+    "role": "玩偶摄影、真实眼部、蓬松白被子：失败方向",
+    "prompt": "archive/prompts/tired-potato-macbook.txt",
+    "sha256": "1ce5903c57de764bed938426406aa182e0ae397c2574c02f3ec0654b601e89ca"
+  },
+  {
+    "id": 5,
+    "image": "archive/images/tired-potato-macbook-v2--potato-1.png",
+    "status": "superseded",
+    "role": "五官更简洁，蓝被子仍偏细腻",
+    "prompt": "archive/prompts/tired-potato-macbook-v2.txt",
+    "sha256": "194195e46cca379eea9025cce8f02d82077ca896dd7a90ae698720908dca025c"
+  },
+  {
+    "id": 6,
+    "image": "archive/images/tired-potato-macbook-v2--potato-2.png",
+    "status": "superseded",
+    "role": "五官更简洁，蓝被子仍偏细腻",
+    "prompt": "archive/prompts/tired-potato-macbook-v2.txt",
+    "sha256": "41415dab566f01f874638074869f6379b0884f4ee8aab661f914a4f07c17a9b7"
+  },
+  {
+    "id": 7,
+    "image": "archive/images/tired-potato-macbook-v3--potato-1.png",
+    "status": "superseded",
+    "role": "折纸般的硬折面：粗糙不等于锐利多边形",
+    "prompt": "archive/prompts/tired-potato-macbook-v3.txt",
+    "sha256": "a51ff99ef557ded862d56c6a79d16e69bf1599a2220bbeddd2f770c85ef4b276"
+  },
+  {
+    "id": 8,
+    "image": "archive/images/tired-potato-macbook-v3--potato-2.png",
+    "status": "superseded",
+    "role": "折纸般的硬折面：粗糙不等于锐利多边形",
+    "prompt": "archive/prompts/tired-potato-macbook-v3.txt",
+    "sha256": "2a2f445f554be79bf2073f1ddec566a6c94513e24366e3cb01b247d613ad0c56"
+  },
+  {
+    "id": 9,
+    "image": "archive/images/tired-potato-macbook-v4--potato-1.png",
+    "status": "superseded",
+    "role": "灰绿格纹更统一，但被子仍厚重、体积感强",
+    "prompt": "archive/prompts/tired-potato-macbook-v4.txt",
+    "sha256": "b8d7260602868da9ce78e3769028bb2a8d521d04bcede89d3391ea090550d02e"
+  },
+  {
+    "id": 10,
+    "image": "archive/images/tired-potato-macbook-v4--potato-2.png",
+    "status": "superseded",
+    "role": "灰绿格纹更统一，但被子仍厚重、体积感强",
+    "prompt": "archive/prompts/tired-potato-macbook-v4.txt",
+    "sha256": "e5dec5c583bad44c67f23864fc5b7382d7b3a85936de1e8e1718ff53300b6ed2"
+  },
+  {
+    "id": 11,
+    "image": "images/07-thin-blanket-macbook-approved.png",
+    "status": "accepted-direction",
+    "role": "薄曲面被子、弱明暗；方向获认可，没有选定唯一一张",
+    "prompt": "archive/prompts/tired-potato-macbook-v5.txt",
+    "sha256": "980fcedf0ef8d28486480ab60f753453def35725a887fc19e711478708b8faa0"
+  },
+  {
+    "id": 12,
+    "image": "archive/images/tired-potato-macbook-v5--potato-2.png",
+    "status": "accepted-direction",
+    "role": "薄曲面被子、弱明暗；方向获认可，没有选定唯一一张",
+    "prompt": "archive/prompts/tired-potato-macbook-v5.txt",
+    "sha256": "53253ef664bc967b1e449d2993cb31d86963f11ee7752853b6f43d7cad4ee82f"
+  },
+  {
+    "id": 13,
+    "image": "images/01-badminton-approved.png",
+    "status": "accepted",
+    "role": "羽毛球：角色和球拍、羽毛统一低清",
+    "prompt": "archive/prompts/badminton-potato-v1.txt",
+    "sha256": "e800d5652dfc4f33721e55cf6235d33881f30de22bba0e0adae8d0944f6ecfde"
+  },
+  {
+    "id": 14,
+    "image": "images/02-fry-cutter-approved.png",
+    "status": "accepted",
+    "role": "薯条：上方完整土豆与下方切条连续相接",
+    "prompt": "archive/prompts/potato-fry-cutter-v1.txt",
+    "sha256": "e9985e31b75b72f5cc56319a0933e00837f19a0f001a30e4de7a55bf27ba5510"
+  },
+  {
+    "id": 15,
+    "image": "images/05-earpods-lawn-approved.png",
+    "status": "candidate",
+    "role": "有线耳塞、放松坐姿、薄圆形草地",
+    "prompt": "archive/prompts/potato-earpods-lawn-v1.txt",
+    "sha256": "ea21260b9509319db56bd64db24fac46cf48098e5ee9fac8ae16ff85a2513f1e"
+  },
+  {
+    "id": 16,
+    "image": "images/03-biceps-curl-approved.png",
+    "status": "candidate",
+    "role": "二头弯举：弯肘握柄，吃力表情",
+    "prompt": "archive/prompts/potato-biceps-curl-v1.txt",
+    "sha256": "ff63c1119048808a5632d2df5e84626117463b34027bf63129bbe4e174c38bf2"
+  },
+  {
+    "id": 17,
+    "image": "images/06-ice-water-approved.png",
+    "status": "candidate",
+    "role": "烈日、汗滴、冰水，享受清凉",
+    "prompt": "archive/prompts/potato-ice-water-sun-v1.txt",
+    "sha256": "5d45a5ef7be41c1699360794a92dd56ab4c0787d873ec3a0d9ef9a3255781f0a"
+  },
+  {
+    "id": 18,
+    "image": "images/04-dj-disco-approved.png",
+    "status": "candidate",
+    "role": "一手搓唱片、一手调音，彩色薄地板",
+    "prompt": "archive/prompts/potato-dj-disco-v1.txt",
+    "sha256": "f0d110d24f249f04678be2ea412387b95a54403f0b59db88b58f7017116e7dcd"
+  },
+  {
+    "id": 19,
+    "image": "archive/images/potato-ice-water-sun-v2-jagged--potato.png",
+    "status": "not-selected",
+    "role": "第一版：过大马赛克块，生成记录标注未采用",
+    "prompt": "archive/prompts/potato-ice-water-sun-v2-jagged--prompt.txt",
+    "sha256": "6ce8c6152519dd8896dd4e3e818e2f41097559dad3c32560bbc851871d14127e"
+  },
+  {
+    "id": 20,
+    "image": "images/08-heavy-pixel-experiment.png",
+    "status": "experiment",
+    "role": "修订版：细锯齿、256px nearest 放大；没有用户确认",
+    "prompt": "archive/prompts/potato-ice-water-sun-v2-jagged--prompt-refined.txt",
+    "sha256": "37a67c320d1e503cb3b5e7d62c1f040ffbc3bde6550dc9e4ace7edcfcf9b1de8"
+  },
+  {
+    "id": 21,
+    "image": "archive/images/downsampled--soft-160.png",
+    "status": "experiment",
+    "role": "弯举模糊强度：area 缩至 160px 再 bilinear 放大；偏好未定",
+    "prompt": null,
+    "sha256": "c19a27221c3b13edadcded981d19795a6e7442e3053721d74bb539953a28fd5e"
+  },
+  {
+    "id": 22,
+    "image": "archive/images/downsampled--soft-096.png",
+    "status": "experiment",
+    "role": "弯举模糊强度：area 缩至 096px 再 bilinear 放大；偏好未定",
+    "prompt": null,
+    "sha256": "a2a22e5baad5c94d803244c9ceac3eb19262466da382e44f1d853821e7604339"
+  },
+  {
+    "id": 23,
+    "image": "archive/images/downsampled--soft-064.png",
+    "status": "experiment",
+    "role": "弯举模糊强度：area 缩至 064px 再 bilinear 放大；偏好未定",
+    "prompt": null,
+    "sha256": "b45f6173447cc61fb76d1a24c3b533d0f061ff275521f2861767fa7379f7a83d"
+  }
+]

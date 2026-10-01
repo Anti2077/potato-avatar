@@ -1,0 +1,11 @@
+Asset type: 正方形社交头像，一组同角色的候选图。
+Primary request: 一个拟人化土豆盖着一床蓬松的被子，双臂疲惫地抱着一台打开的深空灰 MacBook，像熬夜工作到精疲力尽。
+Scene/backdrop: 简洁的暖灰白无缝棚拍背景，只保留柔和接触阴影，不出现房间杂物。
+Subject: 单颗短胖、略不规则的真实马铃薯作为完整身体；浅棕色天然表皮，带细小斑点、浅凹坑、轻微干燥纹理；简单黑色圆点眼睛、粗短眉毛和小嘴；短小的淡黄色手脚。奶油白色蓬松被子从肩部披下并包住身体下半部，仍能看清这是单颗土豆。它紧紧抱住打开的深空灰 MacBook，电脑位于胸前，大小合理，双手清楚地环抱电脑，不遮住面部。
+Expression: 极度疲惫但仍在强撑，眼皮半垂，轻微黑眼圈，眉毛下压，嘴角微微下垂，神情可怜、呆滞又好笑；不要哭泣，不要夸张张嘴。
+Style/medium: 写实土豆材质与极简卡通造型结合的 3D 玩偶摄影，像手工制作的定格动画模型；朴拙、幽默、治愈。保持轻微低分辨率贴图感，但不要低多边形、像素风或方块造型。
+Composition/framing: 正面略微俯视，角色完整居中，占画面约 78%，1:1 正方形头像构图；脸、被子、双手和 MacBook 都清楚；不要裁掉角色或电脑。
+Lighting/mood: 柔和均匀的棚拍光线，微暖、安静、深夜加班后的疲惫感；材质清晰但不过分油亮。
+Color palette: 自然浅棕土豆、奶油白被子、深空灰电脑、暖灰白背景，低饱和。
+Constraints: 保持一个角色；单颗土豆作为身体；没有脖子；眼睛是简单黑色圆点；眉毛粗短；四肢短小；真实土豆表皮；MacBook 外形简洁可信，屏幕内容不可见且没有乱码；手臂和手的结构清楚；被子必须明显覆盖角色身体。
+Avoid: human body, human skin, realistic human face, long limbs, neck, muscular anatomy, glossy plastic, plush potato body, smooth clay, low-poly, voxel art, pixel art, anime eyes, detailed teeth, extra arms, extra legs, extra fingers, deformed limbs, duplicated character, cropped body, cluttered background, text, captions, watermark, illegible screen text, blurry, oversaturated.
